@@ -1,0 +1,4 @@
+hi
+its for file handling
+new line is appendednew line is appendednew line is appendednew line is appended
+new line is writen
